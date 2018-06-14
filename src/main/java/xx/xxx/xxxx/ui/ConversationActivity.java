@@ -250,7 +250,7 @@ public class ConversationActivity extends XmppActivity
 
 //		****
 
-//		Para el wipeout de la data
+//		Para el wipeout de la dataa
 
 
 
